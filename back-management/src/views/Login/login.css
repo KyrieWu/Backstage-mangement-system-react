@@ -20,6 +20,7 @@
 }
 .loginbox .captchaBox .captchaImg {
   margin-left: 20px;
+  cursor: pointer;
 }
 .loginbox .loginBtn {
   height: 38px;
